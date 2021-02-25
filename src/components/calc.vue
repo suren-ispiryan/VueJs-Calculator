@@ -3,14 +3,14 @@
     
     <div class="main-parent mt-5">
       
-      <!-- name -->
+    <!-- name -->
       <div class="row mb-3">
         <div class="col-md-12 name">
           {{ name }}
         </div>
       </div>
 
-      <!-- screen  -->
+    <!-- screen  -->
       <div class="row">
         <div class="col-md-12">
           <div class="row">
@@ -249,7 +249,7 @@ export default {
    font-size: 28px;
    margin-left: 20px;
    text-align: left;
-   width: 80%;
+   width: 100%;
    height: 50px;
    border-radius: 5px;
    border: 2px black solid;
