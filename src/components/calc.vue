@@ -112,7 +112,8 @@ export default {
        add: '+',
        eq: '=',
        c: 'C',
-       dot: '.'
+       dot: '.',
+       numLength: '0'
     }
   },  
 
